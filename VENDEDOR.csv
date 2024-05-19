@@ -1,5 +1,5 @@
-Vendedor;IdVendedor
-Amazon;1185732
-Foot Locker;1128299
-Kohl's;1189833
-Adidas;1197831
+Vendedor;IdVendedor;Logo
+Amazon;1185732;https://rawcdn.githack.com/IrisMartinezG/DataAnalytics/f4532746bb8d80cfb673ce374c30848b3fac2a61/Imagenes/AMAZON.png
+Foot Locker;1128299;https://rawcdn.githack.com/IrisMartinezG/DataAnalytics/f4532746bb8d80cfb673ce374c30848b3fac2a61/Imagenes/FOOTLOCKER.png
+Kohl's;1189833;https://rawcdn.githack.com/IrisMartinezG/DataAnalytics/f4532746bb8d80cfb673ce374c30848b3fac2a61/Imagenes/KOHLS.png
+Adidas;1197831;https://rawcdn.githack.com/IrisMartinezG/DataAnalytics/f4532746bb8d80cfb673ce374c30848b3fac2a61/Imagenes/ADIDAS.png
