@@ -1,6 +1,4 @@
 # DataAnalytics
-Este repositorio es con fines educativos y de practica sobre el analisis de datos y las diferentes herramientas que se utilizan en el proceso.
+Este repositorio está destinado para aprender sobre el análisis de datos y las diferentes herramientas utilizadas en el proceso.
 
-Hasta el momento solo tenemos la base de datos cargada.
-
-Actualizare la descripción de este README cuando se tengan nuevos avances..
+Por el momento, hemos cargado la base de datos inicial. Estamos trabajando en nuevos avances y actualizaremos esta descripción en el README a medida que progresemos.
